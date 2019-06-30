@@ -4,6 +4,6 @@ public class HelloWord {
         System.out.println("helloWord");
 	System.out.println("我是一个小可爱");
 	
-bbbb
+bbbbbb
     }
 }
